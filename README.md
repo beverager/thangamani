@@ -5,11 +5,11 @@
 <a href="#"><img title="Animegirl" src="https://img.shields.io/badge/Animegirl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Appuzlfa"><img title="Author" src="https://img.shields.io/badge/Author-Appuzlfa/thangamani?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/beverager"><img title="Author" src="https://img.shields.io/badge/Author-beverager/Animegirl?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Appuzlfa">Appuzlfa</a> to make it public
+Project created by <a href="https://github.com/beverager">beverager</a> to make it public
     <br>
        | © |
         Reserved |
