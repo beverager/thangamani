@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img border-radius: 15px src="Thangamani.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Animegirl.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="thangamani" src="https://img.shields.io/badge/thangamani-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Animegirl" src="https://img.shields.io/badge/Animegirl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Appuzlfa"><img title="Author" src="https://img.shields.io/badge/Author-Appuzlfa/thangamani?color=red&style=for-the-badge&logo=whatsapp"></a>
